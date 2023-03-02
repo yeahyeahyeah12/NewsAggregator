@@ -11,7 +11,7 @@ NewsAggregator is
 Find the redmine description [Here](redmineDescription.md)
 
 ## File Directory
-- [Redmine project description](Documentation/redmine.md)
+- [Redmine project description](Documentation/Project/redmine.md)
 - [Meetings](Documentation/Meetings/meetings.md)
 - [Blogs](Documentation/Blogs/blogs.md)
 - [Stakeholder analysis](Documentation/Project/stakeholderAnalysis.md)

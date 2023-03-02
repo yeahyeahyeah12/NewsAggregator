@@ -14,7 +14,7 @@ Using machine learning, NewsAggregator is your "news in a can". Take it where yo
 Stay tuned
 
 ## File Directory
-- [Meetings](Documentation/Meetings/meetings.md)
+- [Meetings](Documentation/Meetings/README.md)
 - [Blogs](Documentation/Blogs/blogs.md)
 - [Problematization analysis](Documentation/Project/problematization.md)
 - [Stakeholder analysis](Documentation/Project/stakeholderAnalysis.md)
